@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kali/MLOPS/MLFlow-MLOPS/mlruns/214217208609111371/e30fc692b1684ffcaaadcb5f7853fb8d/artifacts
+end_time: 1762546031308
+entry_point_name: ''
+experiment_id: '214217208609111371'
+lifecycle_stage: active
+run_id: e30fc692b1684ffcaaadcb5f7853fb8d
+run_name: victorious-mink-431
+run_uuid: e30fc692b1684ffcaaadcb5f7853fb8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762546031296
+status: 3
+tags: []
+user_id: kali

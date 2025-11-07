@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kali/MLOPS/MLFlow-MLOPS/mlruns/214217208609111371/6f2b842ca45a45c59359ad85f1b6a76e/artifacts
+end_time: 1762545926781
+entry_point_name: ''
+experiment_id: '214217208609111371'
+lifecycle_stage: active
+run_id: 6f2b842ca45a45c59359ad85f1b6a76e
+run_name: sassy-toad-967
+run_uuid: 6f2b842ca45a45c59359ad85f1b6a76e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762545926767
+status: 4
+tags: []
+user_id: kali

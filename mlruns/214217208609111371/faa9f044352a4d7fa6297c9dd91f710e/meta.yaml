@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kali/MLOPS/MLFlow-MLOPS/mlruns/214217208609111371/faa9f044352a4d7fa6297c9dd91f710e/artifacts
+end_time: 1762546031383
+entry_point_name: ''
+experiment_id: '214217208609111371'
+lifecycle_stage: active
+run_id: faa9f044352a4d7fa6297c9dd91f710e
+run_name: popular-skink-76
+run_uuid: faa9f044352a4d7fa6297c9dd91f710e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762546031373
+status: 3
+tags: []
+user_id: kali

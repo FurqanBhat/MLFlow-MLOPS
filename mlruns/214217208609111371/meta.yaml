@@ -1,0 +1,6 @@
+artifact_location: file:///home/kali/MLOPS/MLFlow-MLOPS/mlruns/214217208609111371
+creation_time: 1762543512740
+experiment_id: '214217208609111371'
+last_update_time: 1762543512740
+lifecycle_stage: active
+name: breast-cancer-rf-hp

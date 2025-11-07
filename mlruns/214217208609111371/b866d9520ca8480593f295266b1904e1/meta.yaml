@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kali/MLOPS/MLFlow-MLOPS/mlruns/214217208609111371/b866d9520ca8480593f295266b1904e1/artifacts
+end_time: 1762546031357
+entry_point_name: ''
+experiment_id: '214217208609111371'
+lifecycle_stage: active
+run_id: b866d9520ca8480593f295266b1904e1
+run_name: victorious-grub-568
+run_uuid: b866d9520ca8480593f295266b1904e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762546031337
+status: 3
+tags: []
+user_id: kali

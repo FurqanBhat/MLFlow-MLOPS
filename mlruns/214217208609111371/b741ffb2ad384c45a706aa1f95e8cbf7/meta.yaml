@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kali/MLOPS/MLFlow-MLOPS/mlruns/214217208609111371/b741ffb2ad384c45a706aa1f95e8cbf7/artifacts
+end_time: 1762545926783
+entry_point_name: ''
+experiment_id: '214217208609111371'
+lifecycle_stage: active
+run_id: b741ffb2ad384c45a706aa1f95e8cbf7
+run_name: unequaled-slug-844
+run_uuid: b741ffb2ad384c45a706aa1f95e8cbf7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762545921209
+status: 4
+tags: []
+user_id: kali

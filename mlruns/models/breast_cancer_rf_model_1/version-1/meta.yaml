@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1762546764764
+current_stage: None
+description: ''
+last_updated_timestamp: 1762546764764
+name: breast_cancer_rf_model_1
+run_id: cfdffc2b47dd4e7eb339faf4a119e363
+run_link: ''
+source: file:///home/kali/MLOPS/MLFlow-MLOPS/mlruns/214217208609111371/cfdffc2b47dd4e7eb339faf4a119e363/artifacts/random-forest-model
+status: READY
+status_message: null
+storage_location: file:///home/kali/MLOPS/MLFlow-MLOPS/mlruns/214217208609111371/cfdffc2b47dd4e7eb339faf4a119e363/artifacts/random-forest-model
+user_id: null
+version: 1

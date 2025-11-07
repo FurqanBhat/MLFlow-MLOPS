@@ -1,0 +1,10 @@
+artifact_location: mlflow-artifacts:/784587350664041486/models/m-b03c5abc608a4a79afa2870eb2a16550/artifacts
+creation_timestamp: 1762535465718
+experiment_id: '784587350664041486'
+last_updated_timestamp: 1762535479164
+model_id: m-b03c5abc608a4a79afa2870eb2a16550
+model_type: ''
+name: honorable-skunk-450
+source_run_id: de416ddbd133462cbb52303dae2fe641
+status: 2
+status_message: null

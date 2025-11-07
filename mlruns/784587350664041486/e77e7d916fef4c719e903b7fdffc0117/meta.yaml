@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/784587350664041486/e77e7d916fef4c719e903b7fdffc0117/artifacts
+end_time: 1762540587129
+entry_point_name: ''
+experiment_id: '784587350664041486'
+lifecycle_stage: active
+run_id: e77e7d916fef4c719e903b7fdffc0117
+run_name: nimble-penguin-424
+run_uuid: e77e7d916fef4c719e903b7fdffc0117
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762540576884
+status: 3
+tags: []
+user_id: kali

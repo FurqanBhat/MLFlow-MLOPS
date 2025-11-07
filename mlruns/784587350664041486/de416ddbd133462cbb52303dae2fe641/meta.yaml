@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/784587350664041486/de416ddbd133462cbb52303dae2fe641/artifacts
+end_time: 1762535479225
+entry_point_name: ''
+experiment_id: '784587350664041486'
+lifecycle_stage: active
+run_id: de416ddbd133462cbb52303dae2fe641
+run_name: trusting-cod-545
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762535463465
+status: 3
+tags: []
+user_id: kali

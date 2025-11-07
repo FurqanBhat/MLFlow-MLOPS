@@ -1,0 +1,9 @@
+digest: 34b594d6
+name: dataset
+profile: '{"features_shape": [161, 13], "features_size": 2093, "features_nbytes":
+  16744}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float64\", \"shape\": [-1, 13]}}]", "targets": null}}'
+source: '{"tags": {"mlflow.user": "kali", "mlflow.source.name": "src/autolog.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "c025e9d3c611c0754326214b7500437ef1a1116f"}}'
+source_type: code
